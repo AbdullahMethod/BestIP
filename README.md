@@ -1,16 +1,17 @@
-# Cloudflare 优选IP 收集器
-由于GitHub版的被官方以滥用资源为理由封禁了项目，特推出基于Cloudflare worker版的优选IP，更快，更高效，更直观！抛弃github Action~
+# Cloudflare Preferred IP Collector
+
+Due to the official banning of the GitHub version for resource abuse, we've launched a preferred IP collector based on the Cloudflare worker version. It's faster, more efficient, and more intuitive! Ditch the GitHub Actions!
 
 <p align="center">
   <a href="https://youtu.be/@AbdullahMusicWorldWide" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/ethgan/BestIP" target="_blank">
+  <a href="https://github.com/iemabdullah/BestIP" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="[https://t.me/yt_hytj](https://t.me/ABDULLAHMETHOD)" target="_blank">
+  <a href="[https://ABDULLAHMETHOD](https://t.me/ABDULLAHMETHOD)" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram" width="40" height="40"/>
   </a>
 </p>
